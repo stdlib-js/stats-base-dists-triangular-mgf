@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-29)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`c88e9f5`](https://github.com/stdlib-js/stdlib/commit/c88e9f51302adbe0d828fd298d9dbc138f6b3e7b) - **chore:** clean-up, fix tests, and add FIXMEs _(by Athan Reines)_
 -   [`98fa29f`](https://github.com/stdlib-js/stdlib/commit/98fa29f0c3aa52aca0bbfb9bdf173250b4fd860a) - **feat:** add C implementation for `stats/base/dists/triangular/mgf` [(#4330)](https://github.com/stdlib-js/stdlib/pull/4330) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
 
 </details>
@@ -46,8 +47,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 
