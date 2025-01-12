@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`1d5aa47`](https://github.com/stdlib-js/stdlib/commit/1d5aa47204c258b674d3db4aec92fbd2475e5ea7) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`c88e9f5`](https://github.com/stdlib-js/stdlib/commit/c88e9f51302adbe0d828fd298d9dbc138f6b3e7b) - **chore:** clean-up, fix tests, and add FIXMEs _(by Athan Reines)_
 -   [`98fa29f`](https://github.com/stdlib-js/stdlib/commit/98fa29f0c3aa52aca0bbfb9bdf173250b4fd860a) - **feat:** add C implementation for `stats/base/dists/triangular/mgf` [(#4330)](https://github.com/stdlib-js/stdlib/pull/4330) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
 
