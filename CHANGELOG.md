@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-01)
+## Unreleased (2025-03-06)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3818](https://github.com/stdlib-js/stdlib/issues/3818)
+[#3818](https://github.com/stdlib-js/stdlib/issues/3818), [#4704](https://github.com/stdlib-js/stdlib/issues/4704)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`dd3acfd`](https://github.com/stdlib-js/stdlib/commit/dd3acfdb0eb89f51b9d42e9b078b4c646b1a49cf) - **refactor:** update `stats/base/dists/triangular/mgf` implementation and test tolerances [(#4768)](https://github.com/stdlib-js/stdlib/pull/4768) _(by Karan Anand, Philipp Burckhardt, stdlib-bot)_
 -   [`276f077`](https://github.com/stdlib-js/stdlib/commit/276f077fe99f7647d5f31256dc0220a45eedbf3e) - **test:** add tests to achieve 100% code coverage [(#5638)](https://github.com/stdlib-js/stdlib/pull/5638) _(by Karan Anand)_
 -   [`c7bfa92`](https://github.com/stdlib-js/stdlib/commit/c7bfa923af0c5346766c90300e0d0a3c2188d438) - **docs:** fix missing ending `section` in various READMEs [(#5292)](https://github.com/stdlib-js/stdlib/pull/5292) _(by Saurabh Singh)_
 -   [`1d5aa47`](https://github.com/stdlib-js/stdlib/commit/1d5aa47204c258b674d3db4aec92fbd2475e5ea7) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
