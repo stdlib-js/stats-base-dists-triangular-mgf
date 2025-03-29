@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-06)
+## Unreleased (2025-03-29)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`4d17559`](https://github.com/stdlib-js/stdlib/commit/4d1755914f7ba64648c1ef6711f297c26c120e12) - **test:** fix missing argument _(by Athan Reines)_
 -   [`dd3acfd`](https://github.com/stdlib-js/stdlib/commit/dd3acfdb0eb89f51b9d42e9b078b4c646b1a49cf) - **refactor:** update `stats/base/dists/triangular/mgf` implementation and test tolerances [(#4768)](https://github.com/stdlib-js/stdlib/pull/4768) _(by Karan Anand, Philipp Burckhardt, stdlib-bot)_
 -   [`276f077`](https://github.com/stdlib-js/stdlib/commit/276f077fe99f7647d5f31256dc0220a45eedbf3e) - **test:** add tests to achieve 100% code coverage [(#5638)](https://github.com/stdlib-js/stdlib/pull/5638) _(by Karan Anand)_
 -   [`c7bfa92`](https://github.com/stdlib-js/stdlib/commit/c7bfa923af0c5346766c90300e0d0a3c2188d438) - **docs:** fix missing ending `section` in various READMEs [(#5292)](https://github.com/stdlib-js/stdlib/pull/5292) _(by Saurabh Singh)_
